@@ -46,7 +46,7 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": ""https://t.me/itzmeEvilMystysupportgroup"
+            "value": "https://t.me/itzmeEvilMystysupportgroup"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
