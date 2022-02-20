@@ -1,7 +1,7 @@
 
 from pyrogram import Client, filters
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
-from Alien.config import BOT_NAME as bn
+from RaiChu.config import BOT_NAME as bn
 from Process.filters import other_filters2
 from time import time
 from datetime import datetime
