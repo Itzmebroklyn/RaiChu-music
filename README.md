@@ -1,4 +1,4 @@
-<h2 align="centre">Alien Music Player</h2>
+<h2 align="centre">Bot duniya Music Player</h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/af405bc022918296ca39b.jpg">
